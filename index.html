@@ -15,38 +15,47 @@
 
     <header class="container-fluid">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-4 logo">
                 <h5>TZ.</h5>
             </div>
             
             <div class="col-md-4">
+              <div class="row">
+                <div class="col title">
                 <h5>THAIBA ZAIB</h5>
                 <h3>FULL STACK DEVELOPER</h3>
-                <img class="profile" src="/assets/images/thaibazaib.jpg">
+                </div>
+              </div>
+              <img class="profile" src="/assets/images/thaibazaib.jpg">
             </div>
+
 
   <!--navbar-->
 
               <div class="col-md-4">
-                <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <nav class="navbar navbar-expand-lg">
                   <div class="container-fluid">
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                          <a class="nav-link" href="#home">Home</a>
+                          <a class="nav-link nav-text" href="#home">Home</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" href="#work-history">Work History</a>
+                          <a class="nav-link nav-text" href="#work-history">Work History</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" href="#study">Study</a>
+                          <a class="nav-link nav-text" href="#study">Study</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" href="#references">References</a>
+                          <a class="nav-link nav-text" href="#skills">Skills</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" href="#contact">Contact Me</a>
+                          <a class="nav-link nav-text" href="#references">References</a>
                         </li>
+                        <li class="nav-item">
+                          <a class="nav-link nav-text" href="#contact">Contact Me</a>
+                        </li>
+                      </ul>
                     </div>
                   </div>
                 </nav>
@@ -61,9 +70,10 @@
     <section>
         <div id="home">
             <h1>Home</h1>
-            <p> My name is Thaiba and i am currently studying the Full Stack Developer course. This is an online course with Learning People. Previously I have worked in many different industries such as hospitality, finance and HR consultancy. However due to Covid-19 I was made redundant from my last job and therefore decided it was time for a career change and came across this course. </p>
-            <p> I chose this course because I wanted something challenging and everyday would be different. So far I have completed the HTML, Cass and User Centric Module and this is my first project. I have decided to build my portfolio.
-              </p>
+            <div class="aboutme">
+            <p> My name is Thaiba and I am currently studying the Full Stack Developer course. This is an online course with Learning People. Previously I have worked in many different industries such as hospitality, finance and HR consultancy. However due to Covid-19 I was made redundant from my last job and therefore decided it was time for a career change and came across this course. </p>
+            <p> I chose this course because I wanted something challenging and everyday would be different. So far I have completed the HTML, CSS and User Centric Module and this is my first project. I have decided to build my portfolio.</p>
+            </div>
         </div>
 
         <!--section for work experience-->
@@ -115,28 +125,26 @@
             <h1>Study</h1>
             <div class="row">
               <div class="col">
-                <div class="card">
-                  <div class="card-header">
-                    <h5>Reading College</h5>
-                  </div>
-                  <div class="card-body">
+                <div class="card border-secondary mb-3" style="max-width: 18rem;">
+                  <div class="card-header">Reading College</div>
+                  <div class="card-body text-secondary">
                     <h5 class="card-title">September 2011 - June 2014</h5>
                     <p class="card-text">BTEC Business National and Extended Diploma Level 3 - Pass, Pass, Merit</p>
                     <p class="card-text">BTEC First Diploma in Business Level 2 - Merit</p>
                     <p class="card-text">Functional Skills Level 2 - Pass</p>
                   </div>
                 </div>
-
-                <div class="card">
-                  <div class="card-header">
-                    <h5>Newlands Girls' School</h5>
-                  </div>
-                  <div class="card-body">
+                <div class="col">
+                <div class="card border-secondary mb-3" style="max-width: 18rem;">
+                  <div class="card-header">Newlands Girls' School</div>
+                  <div class="card-body text-secondary">
                     <h5 class="card-title">September 2011 - June 2014</h5>
                     <p class="card-text">Travel and Tourism Level 2 - Pass</p>
                     <p class="card-text">BTEC Retail Level 2 - Pass</p>
                     <p class="card-text">GCSE Maths And English</p>
                   </div>
+                </div>
+                </div>
                 </div>
               </div>
             </div>
@@ -147,7 +155,7 @@
 <!---skills section-->
 
           <div>
-            <h1>Skills</h1>
+            <h1 id="skills">Skills</h1>
             <div class="progress">
               <div class="progress-bar bg-success" role="progressbar" style="width: 100%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
                 <span class="sr-only">100% complete</span>
@@ -168,14 +176,52 @@
             </div>
           </div>
 
+        <!--end of skills section-->
+
         <div id="references">
-            <h1>REFERENCES</h1>
+            <h1>References</h1>
+          <div class="row">
+            <div class="col">
+              <div class="card">
+                <div class="card-header">
+                  <h5>Jessica Pearson, Client Service Manager</h5>
+                </div>
+                <div class="card-body">
+                  <h5 class="card-title">Lane4 Management Group Ltd</h5>
+                  <p class="card-text">Working with Thaiba has been a great pleasure, she is very optimistic and supportive when it comes to helping other people. Her enthusiasm is contageous, always finding a solution to any issues that occur.</p>
+                </div>
+              </div>
+              <div class="card">
+                <div class="card-header">
+                  <h5>Sophie Brown, Service Advisor</h5>
+                </div>
+                <div class="card-body">
+                  <h5 class="card-title">Northview Group Ltd, Acenden</h5>
+                  <p class="card-text">Always up for a challenge and will help others as well. She delivers excellent customer service and makes sure work is completed in a timely manner. She also supports in other departments and willing to learn and understand more about other roles.</p>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
+
+        <!--end of reference section-->
+
+        <!--contact section-->
+
         <div id="contact">
-            <h1>CONTACT</h1>
-            
+            <h1>Contact Me</h1>
+            <div>
+              <h5>Email Address</h5>
+              <a href="mailto:thaibazaib@gmail.com" target="_blank">thaibazaib@gmail.com</a>
+            </div>
+            <div>
+              <h5>Contact Number</h5>
+              <p>07541695746</p>
+            </div>
         </div>
     </section>
+
+    <!--end of contact section-->
 
     <footer class="container-fluid">
     <div class="row">
@@ -199,7 +245,12 @@
             <p>COPYRIGHT 2021. THAIBA ZAIB <br> ALL RIGHTS RESERVED</p>
         </div>
         <div class="col-md-4">
-            <h5>DOWNLOAD MY CV!<a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></h5>
+          <h5>
+              DOWNLOAD MY CV!
+            <a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i>
+              <span class="sr-only">download link</span>
+            </a>
+          </h5>
         </div>
     </div>
     </footer>

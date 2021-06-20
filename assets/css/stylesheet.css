@@ -1,15 +1,85 @@
 @import url('https://fonts.googleapis.com/css?family=noto+sans+jp:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 
-<!----header---->
+/* body */
+
+body {
+    color: #b27ba1;
+    background-color: #f3eaf2;
+}
+
+
+/* header */
 
 header {
-margin: 0
+    margin: 0;
+    background-color: #cabfc7;
+    padding-bottom: 30px;
+}
+
+.navbar {
+    background-color: #cabfc7;
+}
+
+.nav-text {
+    color: #b27ba1;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+.logo {
+    padding-top: 20px;
+    padding-left: 20px;
+    color: #b27ba1;
+    font-family: "noto sans jp", sans-serif;
+}
+
+.logo h5 {
+    font-weight: bold;
+}
+
+.title {
+    font-family: "noto sans jp", sans-serif;
+    font-weight: 200;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #b27ba1;
 }
 
 .profile {
     border-radius:50%;
     height: 400px;
     width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: double;
+    border-color: #b27ba1;
 }
 
+/* section */
+
+/* home */
+
+#home {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-left: 10px;
+}
+
+div.aboutme {
+    margin-top: 80px;
+    border: 20px double #D3D3D3; 
+    padding: 20px;
+    font-size: 20px;
+}
+
+
+/* work history */
+
+#work-history {
+
+}

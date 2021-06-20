@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=noto+sans+jp:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
 
 
 /* body */
@@ -6,6 +7,18 @@
 body {
     color: #b27ba1;
     background-color: #f3eaf2;
+    padding: 0;
+    margin: 0;
+}
+
+.container-fluid {
+    padding: 0;
+    margin: 0;
+}
+
+.row {
+    padding: 0;
+    margin: 0;
 }
 
 
@@ -27,12 +40,25 @@ header {
     font-size: 18px;
 }
 
+.navbar-toggler {
+    color: #b27ba1;
+    font-size: 2rem;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: grey;
+}
+
+.logo:hover {
+    color: #b27ba1;
+}
+
 
 .logo {
-    padding-top: 20px;
-    padding-left: 20px;
     color: #b27ba1;
-    font-family: "noto sans jp", sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+    font-weight: bold;
 }
 
 .logo h5 {

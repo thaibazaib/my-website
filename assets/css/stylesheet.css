@@ -140,3 +140,14 @@ div.aboutme {
 .grey {
     background-color: #9499b7;
 }
+
+/* footer */
+
+.socials li a i {
+    color: #b27ba1;
+    font-size: 2rem;
+}
+
+.socials li a i:hover {
+    color: grey;
+}

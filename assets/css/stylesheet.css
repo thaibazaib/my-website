@@ -99,9 +99,8 @@ body {
 /* home */
 
 #home {
-    margin-top: 5%;
+    margin-top: 15%;
     margin-bottom: 5%;
-    padding-left: 10px;
 }
 
 div.aboutme {
@@ -113,3 +112,18 @@ div.aboutme {
 
 
 /* work history */
+
+#work-history {
+    margin-top: 15%;
+    margin-bottom: 5%;
+}
+
+.margin {
+    padding: 0;
+    margin: 20px;
+}
+
+.card {
+    height: 300px;
+}
+

@@ -78,7 +78,23 @@ body {
     color: #b27ba1;
 }
 
-
+@media screen and (max-width:500px) {
+    .intro {
+        font-weight: bold;
+        font-size: 3rem;
+        font-family: 'Dancing Script', cursive;
+    
+    }
+    
+    .title {
+        font-family: "noto sans jp", sans-serif;
+        font-weight: bold;
+        text-align: center;
+        padding-bottom: 20px;
+        color: #b27ba1;
+        font-size: 1rem;
+    }
+}
 
 .profile {
     border-radius:50%;
@@ -95,6 +111,14 @@ body {
     background-color: #cabfc7;
     margin: 0;
     height: 80vh;
+}
+
+@media screen and (max-width:500px) {
+    .title-profile  {
+        background-color: #cabfc7;
+        margin: 0;
+        height: 100vh;
+    }
 }
 
 /* section */

@@ -114,7 +114,7 @@ div.aboutme {
 /* work history */
 
 #work-history {
-    margin-top: 15%;
+    margin-top: 6%;
     margin-bottom: 5%;
 }
 
@@ -127,7 +127,20 @@ div.aboutme {
     height: 300px;
 }
 
+/* study */
+
+#study {
+    margin-top: 6%;
+    margin-bottom: 5%;
+}
+
 /* skills */
+
+
+#skills {
+    margin-top: 6%;
+    margin-bottom: 5%;
+}
 
 .pink {
     background-color: #c48b9f;
@@ -141,7 +154,30 @@ div.aboutme {
     background-color: #9499b7;
 }
 
+/* references */
+
+
+#references {
+    margin-top: 6%;
+    margin-bottom: 5%;
+}
+
+/* contact */
+
+
+#contact {
+    margin-top: 6%;
+    margin-bottom: 5%;
+}
+
 /* footer */
+
+footer {
+    background-color: #cabfc7;
+    padding-top: 30px;
+}
+
+
 
 .socials li a i {
     color: #b27ba1;

@@ -1,226 +1,175 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 @import url('https://fonts.googleapis.com/css?family=noto+sans+jp:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
-
-
+ @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
 /* body */
-
-body {
-    color: #b27ba1;
-    background-color: #f3eaf2;
-    padding: 0;
-    margin: 0;
+ body {
+     color: #b27ba1;
+     background-color: #f3eaf2;
+     padding: 0;
+     margin: 0;
 }
-
-.container-fluid {
-    padding: 0;
-    margin: 0;
+ .container-fluid {
+     padding: 0;
+     margin: 0;
 }
-
-.row {
-    padding: 0;
-    margin: 0;
+ .row {
+     padding: 0;
+     margin: 0;
 }
-
-.space {
-    padding: 2rem;
-    }
-.space-top {
-    padding-top: 1rem;
+ .space {
+     padding: 2rem;
 }
-
+ .space-top {
+     padding-top: 1rem;
+}
 /* header */
-
-
-
-.navbar {
-    background-color: #cabfc7;
+ .navbar {
+     background-color: #cabfc7;
 }
-
-.nav-text {
-    color: #b27ba1;
-    font-weight: bold;
-    font-size: 18px;
+ .nav-text {
+     color: #b27ba1;
+     font-weight: bold;
+     font-size: 18px;
 }
-
-.navbar-toggler {
-    color: #b27ba1;
-    font-size: 2rem;
+ .navbar-toggler {
+     color: #b27ba1;
+     font-size: 2rem;
 }
-
-.navbar-nav .nav-item .nav-link:hover {
-    color: grey;
+ .navbar-nav .nav-item .nav-link:hover {
+     color: grey;
 }
-
-.logo:hover {
-    color: #b27ba1;
+ .logo:hover {
+     color: #b27ba1;
 }
-
-
-.logo {
-    color: #b27ba1;
-    font-family: 'Dancing Script', cursive;
-    font-size: 2rem;
-    font-weight: bold;
+ .logo {
+     color: #b27ba1;
+     font-family: 'Dancing Script', cursive;
+     font-size: 2rem;
+     font-weight: bold;
 }
-
-.intro {
-    font-weight: bold;
-    font-size: 4rem;
-    font-family: 'Dancing Script', cursive;
-
+ .intro {
+     font-weight: bold;
+     font-size: 4rem;
+     font-family: 'Dancing Script', cursive;
 }
-
-.title {
-    font-family: "noto sans jp", sans-serif;
-    font-weight: bold;
-    text-align: center;
-    padding-bottom: 20px;
-    color: #b27ba1;
+ .title {
+     font-family: "noto sans jp", sans-serif;
+     font-weight: bold;
+     text-align: center;
+     padding-bottom: 20px;
+     color: #b27ba1;
 }
-
-@media screen and (max-width:500px) {
-    .intro {
-        font-weight: bold;
-        font-size: 3rem;
-        font-family: 'Dancing Script', cursive;
-    
+ @media screen and (max-width:500px) {
+     .intro {
+         font-weight: bold;
+         font-size: 3rem;
+         font-family: 'Dancing Script', cursive;
     }
-    
-    .title {
-        font-family: "noto sans jp", sans-serif;
-        font-weight: bold;
-        text-align: center;
-        padding-bottom: 20px;
-        color: #b27ba1;
-        font-size: 1rem;
+     .title {
+         font-family: "noto sans jp", sans-serif;
+         font-weight: bold;
+         text-align: center;
+         padding-bottom: 20px;
+         color: #b27ba1;
+         font-size: 1rem;
     }
 }
-
-.profile {
-    border-radius:50%;
-    height: auto;
-    max-width: 100%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: double;
-    border-color: #b27ba1;
+ .profile {
+     border-radius:50%;
+     height: auto;
+     max-width: 100%;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     border-style: double;
+     border-color: #b27ba1;
 }
-
-.title-profile  {
-    background-color: #cabfc7;
-    margin: 0;
-    height: 80vh;
+ .title-profile {
+     background-color: #cabfc7;
+     margin: 0;
+     height: 80vh;
 }
-
-@media screen and (max-width:500px) {
-    .title-profile  {
-        background-color: #cabfc7;
-        margin: 0;
-        height: 100vh;
+ @media screen and (max-width:500px) {
+     .title-profile {
+         background-color: #cabfc7;
+         margin: 0;
+         height: 100vh;
     }
 }
-
 /* section */
-
 /* home */
-
-#home {
-    margin-top: 15%;
-    margin-bottom: 5%;
+ #home {
+     margin-top: 15%;
+     margin-bottom: 5%;
 }
-
-div.aboutme {
-    margin-top: 80px;
-    border: 20px double #D3D3D3; 
-    padding: 20px;
-    font-size: 20px;
+ div.aboutme {
+     margin-top: 80px;
+     border: 20px double #D3D3D3;
+     padding: 20px;
+     font-size: 20px;
 }
-
-
 /* work history */
-
-#work-history {
-    margin-top: 6%;
-    margin-bottom: 5%;
+ #work-history {
+     margin-top: 6%;
+     margin-bottom: 5%;
 }
-
-.margin {
-    padding: 0;
-    margin: 20px;
+ .margin {
+     padding: 0;
+     margin: 20px;
 }
-
-.card {
-    height: 300px;
+ .card {
+     height: 300px;
 }
-
 /* study */
-
-#study {
-    margin-top: 6%;
-    margin-bottom: 5%;
+ #study {
+     margin-top: 6%;
+     margin-bottom: 5%;
 }
-
 /* skills */
-
-
-#skills {
-    margin-top: 6%;
-    margin-bottom: 5%;
+ #skills {
+     margin-top: 6%;
+     margin-bottom: 5%;
 }
-
-
-.pink {
-    background-color: #c48b9f;
+ .pink {
+     background-color: #c48b9f;
 }
-
-.purple {
-    background-color: #af8eb5;
+ .purple {
+     background-color: #af8eb5;
 }
-
-.grey {
-    background-color: #9499b7;
+ .grey {
+     background-color: #9499b7;
 }
-
 /* references */
-
-
-#references {
-    margin-top: 6%;
-    margin-bottom: 5%;
+ #references {
+     margin-top: 6%;
+     margin-bottom: 5%;
 }
-
 /* contact */
-
-
-#contact {
-    margin-top: 6%;
-    margin-bottom: 5%;
+ #contact {
+     margin-top: 6%;
+     margin-bottom: 5%;
 }
-
 /* footer */
-
-footer {
-    background-color: #cabfc7;
-    padding-top: 30px;
+ footer {
+     background-color: #cabfc7;
+     padding-top: 30px;
 }
-
-
-
-.socials li a i {
-    color: #b27ba1;
-    font-size: 2rem;
+ .socials li a i {
+     color: #b27ba1;
+     font-size: 2rem;
 }
-
-.socials li a i:hover {
-    color: grey;
+ .socials li a i:hover {
+     color: grey;
 }
-
-.link {
-    color: #b27ba1;
+ .link {
+     color: #b27ba1;
 }
-
-
-.link:hover {
-    color: grey;
+ .link:hover {
+     color: grey;
 }

@@ -75,3 +75,22 @@ The goal of phase will mainly focus on making the current project more interacti
 
 ---
 
+### **The Structure Section**
+
+With the structure of my project, I did some research on other resume profiles to give me the inspiration that I needed to make my project intreging to the user. By doing this it helped me to figure out what I needed to design my resume project.
+
+I used [Codrops](https://tympanus.net/codrops/) and [Awwwards](https://www.awwwards.com/).
+
+*Color Theme*
+
+- Pastel pink #f3eaf2
+- Shade of grey #cabfc7
+- Darker shade of pink #b27ba1
+
+I wanted to give my project a warm and nurturing theme that I felt would make myself approachable to the user.
+
+*Typography*
+
+*Profile Image*
+
+

@@ -50,3 +50,28 @@ From my user stories and creator goals, I had a clear idea of what was required 
 
 ---
 
+### **The Scope Section**
+
+During my strategy design process I was able to identify how I wanted to structure my resume project, however after doing some research with feedback from my peers, I found that certain fesatures of my project were not feasible. 
+
+After careful consideration, I resalised the most ideal way of implementing my ideas would be to do this in phases, as you can see below:
+
+*Phase 1*
+
+- Have my features all on one page.
+- Navigation bar to be clear and visible on the top corner of my project.
+- Progress bars that shows the user my knowledge so far of HTML, CSS and Javascipt.
+- A contact me section, so that user can contact me via email or phone.
+
+*Phase 2*
+
+- After completing the Javascript section of the project, I would then implement this into my resume project to make it interactive rather than static.
+- Add to my skills section, to keep the users updated with my progression of the different coding languages I have learnt so far.
+- Including social links for my references, so that the user can view their profiles on other social platforms.
+
+What I hope to achieve is a great user experience, by creating a project that is eye catching as well as professional for businesses to view.
+
+The goal of phase will mainly focus on making the current project more interactive and engaging for users.
+
+---
+

@@ -91,6 +91,19 @@ I wanted to give my project a warm and nurturing theme that I felt would make my
 
 *Typography*
 
+- Noto Sans JP
+- Sans Serif
+- Dancing Script
+
+Noto Sans JP font, created by Google is the main font for my title as well as most of the body of the text, as I feel this is easy to read, looks very light to match the smoothe feeling of the background colors.
+
+I included Dancing Script, created by Impallari Type also from Google Fonts, this will be the secondary font used for the name title, logo at the top left corner of the page and the subheadings for each section. I felt that this font style complements the Sans Noto JP font, whilst giving my project a fancy look that would be eyecatching to the user.
+
+Sans Serif, will be my fallback font. This is so that if the main fonts are not implemented in the project, then this font style will be the back-up.
+
 *Profile Image*
 
+I wanted my profile to be professional and centered in the header, so that this was the first thing that stands out as soon as the user views my project. I decided that I want to make the profile shaped into a circle, with a darker shade of pink dobule border around it, so that it gave the image a strong significance.
+
+---
 

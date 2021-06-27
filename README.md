@@ -107,3 +107,26 @@ I wanted my profile to be professional and centered in the header, so that this 
 
 ---
 
+### **The Skeleton Section**
+
+I used Balsamiq Wireframes to create the wireframes for my project. I used this platform as I felt it was easy to use and straight forward. With this I was able to get an idea of what would work and look good for my project, also gave me a chance to see how I wanted to structure my project in the responsive view.
+
+As I have now created my project, there are a few things I changed from when I crested my wireframes:
+
+- The title and name is below the profile now as I felt it clashed with the navigation bar and the logo.
+- The dark pink shade covers from the navigation bar to below the profile image/title. this is because I want the header to be seperate from the section of my project.
+- Border around the paragraph of the home section. I want a style that was going to have it's own unique look to tell the user about me.
+- With the Work-History section cards are inline and not set as block as there wasn't much context and appears neater this way.
+- With the Study section, I created two seperate cards, so that both places I studied at are seperate, thsi is make it organised.
+- With the Skills section, I explained what I have learnt so far in each module. This would be better for the user to have a short insight of my knowledge with what I have learnt so far.
+- With the References section, I found a card on bootstrap that I felt worked better with how I want to display my references.
+- Centered my content, to keep the content controlled and look professional.
+- Decided to leave the footer at the end of the page rather than freezing the pane, to avoid the user from not look at all sections of my resume project.
+- In mobile view, I found a Bootstrap navigation bar style that would place each of the navigation bar options into a menu to keep it neat and tidy.
+
+
+Getting feedback from peers and my mentor inspired me to make these changes, as well as my own personal preference. I feel these changes made sense and give my project professional atmosphere.
+
+
+---
+

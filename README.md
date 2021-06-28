@@ -130,3 +130,22 @@ Getting feedback from peers and my mentor inspired me to make these changes, as 
 
 ---
 
+### **The Surface Section**
+
+There are many different features in my resume project, including the followimng:
+
+- My resume project is responsive to different screen sizes, so that my project can be viewed on different technology devices. 
+- Navigation Bar - This feature makes it easier to navigate the sections of the project. When in responsve, the navigation then turns into a hamburger menu to give the screen some space as the screen is a lot smaller. 
+- Profile image - This image if for the user to identifier who the web designer is and I have displayed this in the center as soon as you enter the project.The border around the image help it stand out more and give it's own significance.
+- Progress bar - This feature gives the user the understanding of the completion rate of each module.
+- Background shades - I wanted the background of the header to stand out and be seperate from the sections.
+- Font style - I switch between font styles, I chose the Dancing Script as I felt it catches the users attention and matches the color scheme very well.
+- Footer - The foot includes the social links as well as download link for the CV.
+
+Featues to implement:
+
+- My resume project is currently static, however once I have learnt the Javascript module I would like to make this interactive.
+- Include social links for my references, so the user can see their profiles.
+- Add links to different projects I create during this course, so users can view my work.
+
+---

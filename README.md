@@ -149,3 +149,19 @@ Featues to implement:
 - Add links to different projects I create during this course, so users can view my work.
 
 ---
+
+## **Technologies**
+
+### **Languages**
+
+[HTML](https://www.w3schools.com/html/html_intro.asp)
+
+- Also known as Hypertext Markup Language, used to structure a webpage and the content.
+
+[CSS](https://www.w3schools.com/css/css_intro.asp)
+
+- Cascading Style Sheets, use to describe the style of web pages, this controls the layout, color and fonts.
+
+[Javascript](https://www.w3schools.com/js/js_intro.asp)
+
+- 

@@ -168,17 +168,23 @@ Featues to implement:
 
 ### **Frameworks and Libraries**
 
-- [Balsamiq](https://balsamiq.com/) - 
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](https://fontawesome.com/)
-- [Bootstrap](https://getbootstrap.com/)
-- [Gitpod](https://www.gitpod.io/)
-- [Github](https://github.com/)
+- [Balsamiq](https://balsamiq.com/) - Use to design wireframes for my resume project.
+- [Google Fonts](https://fonts.google.com/) - Use for the font style used for my project. Font styles used were Nano Sans JP and Dancing Script.
+- [Font Awesome](https://fontawesome.com/) - Used to implements icons into my project. I used this for social and download links.
+- [Bootstrap](https://getbootstrap.com/) - Used to make my website responsive to different technology screen sizes.
+- [Gitpod](https://www.gitpod.io/) - Platform to write up my code.
+- [Github](https://github.com/) - Used to store the code.
 
 ### **Programmes**
 
-- [WW3 School]()
-- [Color Wheel]()
-- [Snipping Tool]()
-- [Paint]()
-- [Am I Responsive]()
+I also used the below tools to help me to develop my resume project:
+
+- [WW3 School](https://www.w3schools.com/)
+- [Color Wheel](https://color.adobe.com/create/color-wheel)
+- [Snipping Tool](https://easyscreen.me/?adw=search&subid=microsoft%20snipping%20tool&source=3&ad=3.29.1_&lead=1&gclid=CjwKCAjwieuGBhAsEiwA1Ly_nWKxh7i2lw_731xhd9mxKOc2oPVMay9A7RBKgvDP3-sEi7t8c0nsxhoCvccQAvD_BwE)
+- [Paint](https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9)
+- [Am I Responsive](http://ami.responsivedesign.is/#)
+
+
+---
+

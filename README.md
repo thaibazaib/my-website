@@ -164,4 +164,21 @@ Featues to implement:
 
 [Javascript](https://www.w3schools.com/js/js_intro.asp)
 
-- 
+- Javascript, used to make web pages interactive.
+
+### **Frameworks and Libraries**
+
+- [Balsamiq](https://balsamiq.com/) - 
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](https://fontawesome.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Gitpod](https://www.gitpod.io/)
+- [Github](https://github.com/)
+
+### **Programmes**
+
+- [WW3 School]()
+- [Color Wheel]()
+- [Snipping Tool]()
+- [Paint]()
+- [Am I Responsive]()

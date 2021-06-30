@@ -237,3 +237,25 @@ During the creation of my resume project, I came across a few issues that I had 
     - Also hadn't placed the 'Noto Sans JP' in the body, added this to the body and my code was then fixed.
 
     [Click here to view image](font_issue.png)
+    
+    ---
+
+## **Deployment**
+
+1. Select the repository that you would like to deploy.
+2. Below the 'Repo' name, select the settings link from the menu.
+3. in the settings page, on the left there is a menu. select the pages link.
+4. Under the heading 'Source', select 'None tab' and change to 'Master'.
+5. select save and refersh the page.
+6. Above the subheading source, there will be an address link that will appear. click this link to test that it is working.
+
+
+## **Creating a Clone**
+
+1. Select the Repo you would like to clone.
+2. Select the code dropdown.
+3. Beside the link, copy to clipboard.
+4. In Gitpod, open the location you wish to clone.
+5. In the console, enter 'git clone', paste the link and hit enter.
+
+

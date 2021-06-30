@@ -268,4 +268,34 @@ Creating a copy a repository into your own respository.
 2. On the top right corner, select Fork.
 3. You will have now added a copy of the repository to your respository.
 
+---
 
+## **Credits**
+
+
+- [Slack](https://slack.com/intl/en-gb/)
+    - I used slack for when I could not open my web browser for my project. I was provided with what to do to open the web browser.
+    - When I was stuck on my coding and didn't really have much knowledge of bootstrap, I asked on Slack for help and met Harry Dhillon and he helped me understand it better.
+
+- Mentor, Rahul
+    - My mentor did provide me with guidance on how to implement code from bootstrap into my code.
+    - I had an issue with my text overflowing out of the card element when testing if responsive on different screens. My mentor advised to use media query and add overflow: scroll within this style.
+
+- Tutor support
+   - At one point I had saved my code but did not commit, I could not find my code, I then contacted tutor support and they helped me to find my workspace.
+   - My Gitpod allowance had ran out, I contacted tutor support who sorted this out for me and then I was able to code again.
+
+- [Bootstrap](https://getbootstrap.com/)
+    - I used many bootstrap styles in my Code, such as;
+        - Navigation Bar
+        - Card Elements
+        - Progress Bar
+        - Used Bootstrap grid layout to make my project responsive.
+
+- [W3 School](https://www.w3schools.com/) 
+    - I used WW3 school to help me implement code into my project:
+        - Border styles
+        - Overflow; scroll
+        - Add a link to my email address in the Contact section.
+
+---

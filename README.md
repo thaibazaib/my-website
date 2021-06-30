@@ -1,5 +1,7 @@
 # **Thaiba Zaib Resume**
 
+![Responsive View of Project](https://github.com/thaibazaib/my-website/blob/master/docs/responsive_view.PNG "Thaiba Zaib Resume Project")
+
 ## **Introduction**
 
 My name is Thaiba Zaib and welcome to my first milestone project. I joined a Full Stack developer course with Code Institute.
@@ -109,6 +111,8 @@ I wanted my profile to be professional and centered in the header, so that this 
 
 ### **The Skeleton Section**
 
+[Project Wireframes](https://github.com/thaibazaib/my-website/blob/master/docs/wireframes.pdf)
+
 I used Balsamiq Wireframes to create the wireframes for my project. I used this platform as I felt it was easy to use and straight forward. With this I was able to get an idea of what would work and look good for my project, also gave me a chance to see how I wanted to structure my project in the responsive view.
 
 As I have now created my project, there are a few things I changed from when I crested my wireframes:
@@ -205,14 +209,13 @@ At the end of the project, I wanted to make sure my code was neat and valid with
 
 - [The W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)
 
-    - [Result](html_validation_results.PNG)
+    - All errors and warning were fixed on HTML Validator.
 
 - [CSS Formatter](https://www.cleancss.com/css-beautify/)
 
 - [The W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-    - [Results](css_validation_results.PNG)
-
+    - All errors and warning were fixed on CSS Validator.
 
 ### **Bugs and Fixes**
 
@@ -223,21 +226,23 @@ During the creation of my resume project, I came across a few issues that I had 
     - There was an extra / in the image element tag, once this was removed the image was then visible on the live website.
     - The image also wasn't responsive when testing on smaller screen sizes. In the profile class, I changed the height and width so that the image was responsive.
     
-    [Click here to view image](hero_image.png)
+    [Click here to view image](https://github.com/thaibazaib/my-website/blob/master/docs/hero_image.png)
 
 - Title headings - The background header was not responsive, so I added in media queries for the title headings to make it responsive.
 
 - Card style - When in responsive setting, the text would come out of the card. I then added in media query, overflow: scroll; to make the text stay inside of the card style.
 
-    [Click here to view image](card_issue.png)
+    [Click here to view image](https://github.com/thaibazaib/my-website/blob/master/docs/card_issue.png)
 
 - Font style - Noticed that my font style 'Noto Sans JP' was not embedded into my resume project.
 
     - I realised the issue was that I had the incorrect import link. Went to google fonts to get the correct link.
     - Also hadn't placed the 'Noto Sans JP' in the body, added this to the body and my code was then fixed.
 
-    [Click here to view image](font_issue.png)
+    [Click here to view image](https://github.com/thaibazaib/my-website/blob/master/docs/font_issue.PNG)
     
+
+From the 30th May to 19th June, I had not committed and pushed my code correctly due to lack of understanding. However after noticing this glaring issue, I made sure I correctly git added, committed and pushed after that from 20th June onwards.
     ---
 
 ## **Deployment**

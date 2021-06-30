@@ -188,3 +188,52 @@ I also used the below tools to help me to develop my resume project:
 
 ---
 
+## **Testing**
+
+[User Stories](https://docs.google.com/document/d/1W2CXb4icwdBFX5mGJAwQGvMhPys7AZ6inpeyvuqflHk/edit?usp=sharing)
+
+### **Testing used for my project**
+
+- The project was tested on Google Chrome.
+- The project was texted manually on an iPad.
+- Utilised the inspecter setting of Google Chrome whilst I was developing the project, to test if it was responsive on different screen sizes.
+
+
+At the end of the project, I wanted to make sure my code was neat and valid with no errors detected. To do this, I used the following formatting and validation tools:
+
+- [HTML Formatter](https://www.freeformatter.com/html-formatter.html)
+
+- [The W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)
+
+    - [Result](html_validation_results.PNG)
+
+- [CSS Formatter](https://www.cleancss.com/css-beautify/)
+
+- [The W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
+    - [Results](css_validation_results.PNG)
+
+
+### **Bugs and Fixes**
+
+During the creation of my resume project, I came across a few issues that I had to fix:
+
+- Profile image - The image was not centered or displayed on the live website.
+    
+    - There was an extra / in the image element tag, once this was removed the image was then visible on the live website.
+    - The image also wasn't responsive when testing on smaller screen sizes. In the profile class, I changed the height and width so that the image was responsive.
+    
+    [Click here to view image](hero_image.png)
+
+- Title headings - The background header was not responsive, so I added in media queries for the title headings to make it responsive.
+
+- Card style - When in responsive setting, the text would come out of the card. I then added in media query, overflow: scroll; to make the text stay inside of the card style.
+
+    [Click here to view image](card_issue.png)
+
+- Font style - Noticed that my font style 'Noto Sans JP' was not embedded into my resume project.
+
+    - I realised the issue was that I had the incorrect import link. Went to google fonts to get the correct link.
+    - Also hadn't placed the 'Noto Sans JP' in the body, added this to the body and my code was then fixed.
+
+    [Click here to view image](font_issue.png)

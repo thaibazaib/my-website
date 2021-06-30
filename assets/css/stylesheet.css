@@ -1,11 +1,5 @@
-/*
-* Prefixed by https://autoprefixer.github.io
-* PostCSS: v7.0.29,
-* Autoprefixer: v9.7.6
-* Browsers: last 4 version
-*/
-
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;400&display=swap');
+/* * Prefixed by https://autoprefixer.github.io * PostCSS: v7.0.29, * Autoprefixer: v9.7.6 * Browsers: last 4 version */
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;400&display=swap');
  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
 /* body */
  body {
@@ -13,7 +7,8 @@
      background-color: #f3eaf2;
      padding: 0;
      margin: 0;
-     font-family: 'Noto Sans JP', sans-serif;;
+     font-family: 'Noto Sans JP', sans-serif;
+    ;
 }
  .container-fluid {
      padding: 0;
@@ -120,8 +115,8 @@
      margin-top: 6%;
      margin-bottom: 5%;
 }
-.card-workflow {
-    height: 300px;
+ .card-workflow {
+     height: 300px;
 }
  .margin {
      padding: 0;
@@ -146,10 +141,10 @@
  .grey {
      background-color: #9499b7;
 }
-@media screen and (max-width:532px) {
-    .card-overflow {
-        overflow: scroll;
-   }
+ @media screen and (max-width:532px) {
+     .card-overflow {
+         overflow: scroll;
+    }
 }
 /* references */
  #references {

@@ -242,6 +242,8 @@ During the creation of my resume project, I came across a few issues that I had 
 
 ## **Deployment**
 
+Deploying via GitHub pages
+
 1. Select the repository that you would like to deploy.
 2. Below the 'Repo' name, select the settings link from the menu.
 3. in the settings page, on the left there is a menu. select the pages link.
@@ -250,12 +252,20 @@ During the creation of my resume project, I came across a few issues that I had 
 6. Above the subheading source, there will be an address link that will appear. click this link to test that it is working.
 
 
-## **Creating a Clone**
+### **Creating a Clone**
 
 1. Select the Repo you would like to clone.
 2. Select the code dropdown.
 3. Beside the link, copy to clipboard.
 4. In Gitpod, open the location you wish to clone.
 5. In the console, enter 'git clone', paste the link and hit enter.
+
+### **Forking**
+
+Creating a copy a repository into your own respository.
+
+1. Go to the GitHub Page.
+2. On the top right corner, select Fork.
+3. You will have now added a copy of the repository to your respository.
 
 

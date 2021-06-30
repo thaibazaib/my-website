@@ -79,7 +79,7 @@ The goal of phase will mainly focus on making the current project more interacti
 
 ### **The Structure Section**
 
-With the structure of my project, I did some research on other resume profiles to give me the inspiration that I needed to make my project intreging to the user. By doing this it helped me to figure out what I needed to design my resume project.
+With the structure of my project, I did some research on other resume profiles to give me the inspiration that I needed to make my project intriguing to the user. By doing this it helped me to figure out what I needed to design my resume project.
 
 I used [Codrops](https://tympanus.net/codrops/) and [Awwwards](https://www.awwwards.com/).
 
@@ -97,15 +97,15 @@ I wanted to give my project a warm and nurturing theme that I felt would make my
 - Sans Serif
 - Dancing Script
 
-Noto Sans JP font, created by Google is the main font for my title as well as most of the body of the text, as I feel this is easy to read, looks very light to match the smoothe feeling of the background colors.
+Noto Sans JP font, created by Google is the main font for my title as well as most of the body of the text, as I feel this is easy to read, looks very light to match the smooth feeling of the background colors.
 
-I included Dancing Script, created by Impallari Type also from Google Fonts, this will be the secondary font used for the name title, logo at the top left corner of the page and the subheadings for each section. I felt that this font style complements the Sans Noto JP font, whilst giving my project a fancy look that would be eyecatching to the user.
+I included Dancing Script, created by Impallari Type also from Google Fonts, this will be the secondary font used for the name-title, logo at the top left corner of the page and the subheadings for each section. I felt that this font style complements the Sans Noto JP font, whilst giving my project a fancy look that would be eyecatching to the user.
 
 Sans Serif, will be my fallback font. This is so that if the main fonts are not implemented in the project, then this font style will be the back-up.
 
 *Profile Image*
 
-I wanted my profile to be professional and centered in the header, so that this was the first thing that stands out as soon as the user views my project. I decided that I want to make the profile shaped into a circle, with a darker shade of pink dobule border around it, so that it gave the image a strong significance.
+I wanted my profile to be professional and centered in the header, so that this was the first thing that stands out as soon as the user views my project. I decided that I want to make the profile shaped into a circle, with a darker shade of pink double border around it, so that it gave the image a strong significance.
 
 ---
 
@@ -119,9 +119,9 @@ As I have now created my project, there are a few things I changed from when I c
 
 - The title and name is below the profile now as I felt it clashed with the navigation bar and the logo.
 - The dark pink shade covers from the navigation bar to below the profile image/title. this is because I want the header to be seperate from the section of my project.
-- Border around the paragraph of the home section. I want a style that was going to have it's own unique look to tell the user about me.
-- With the Work-History section cards are inline and not set as block as there wasn't much context and appears neater this way.
-- With the Study section, I created two seperate cards, so that both places I studied at are seperate, thsi is make it organised.
+- Border around the paragraph of the home section. I want a style that was going to have its own unique look to tell the user about me.
+- With the Work-History section cards are in-line and not set as block as there wasn't much context and appears neater this way.
+- With the Study section, I created two separate cards, so that both places I studied at are separate, this makes it organised.
 - With the Skills section, I explained what I have learnt so far in each module. This would be better for the user to have a short insight of my knowledge with what I have learnt so far.
 - With the References section, I found a card on bootstrap that I felt worked better with how I want to display my references.
 - Centered my content, to keep the content controlled and look professional.
@@ -136,19 +136,19 @@ Getting feedback from peers and my mentor inspired me to make these changes, as 
 
 ### **The Surface Section**
 
-There are many different features in my resume project, including the followimng:
+There are many different features in my resume project, including the following:
 
 - My resume project is responsive to different screen sizes, so that my project can be viewed on different technology devices. 
-- Navigation Bar - This feature makes it easier to navigate the sections of the project. When in responsve, the navigation then turns into a hamburger menu to give the screen some space as the screen is a lot smaller. 
-- Profile image - This image if for the user to identifier who the web designer is and I have displayed this in the center as soon as you enter the project.The border around the image help it stand out more and give it's own significance.
+- Navigation Bar - This feature makes it easier to navigate the sections of the project. When in responsive, the navigation then turns into a hamburger menu to give the screen some space as the screen is a lot smaller. 
+- Profile image - This image if for the user to identify who the web designer is and I have displayed this in the center as soon as you enter the project.The border around the image help it stand out more and give its own significance.
 - Progress bar - This feature gives the user the understanding of the completion rate of each module.
-- Background shades - I wanted the background of the header to stand out and be seperate from the sections.
+- Background shades - I wanted the background of the header to stand out and be separate from the sections.
 - Font style - I switch between font styles, I chose the Dancing Script as I felt it catches the users attention and matches the color scheme very well.
-- Footer - The foot includes the social links as well as download link for the CV.
+- Footer - The foot includes the social links as well as a download link for the CV.
 
-Featues to implement:
+Features to implement:
 
-- My resume project is currently static, however once I have learnt the Javascript module I would like to make this interactive.
+- My resume project is currently static, however, once I have learnt the Javascript module I would like to make this interactive.
 - Include social links for my references, so the user can see their profiles.
 - Add links to different projects I create during this course, so users can view my work.
 
@@ -200,7 +200,7 @@ I also used the below tools to help me to develop my resume project:
 
 - The project was tested on Google Chrome.
 - The project was texted manually on an iPad.
-- Utilised the inspecter setting of Google Chrome whilst I was developing the project, to test if it was responsive on different screen sizes.
+- Utilised the inspect setting of Google Chrome whilst I was developing the project, to test if it was responsive on different screen sizes.
 
 
 At the end of the project, I wanted to make sure my code was neat and valid with no errors detected. To do this, I used the following formatting and validation tools:
@@ -242,7 +242,7 @@ During the creation of my resume project, I came across a few issues that I had 
     [Click here to view image](https://github.com/thaibazaib/my-website/blob/master/docs/font_issue.PNG)
     
 
-From the 30th May to 19th June, I had not committed and pushed my code correctly due to lack of understanding. However after noticing this glaring issue, I made sure I correctly git added, committed and pushed after that from 20th June onwards.
+From the 30th May to 19th June, I had not committed and pushed my code correctly due to lack of understanding. However, after noticing this glaring issue, I made sure I correctly git added, committed and pushed after that from 20th June onwards.
     ---
 
 ## **Deployment**
@@ -251,10 +251,10 @@ Deploying via GitHub pages
 
 1. Select the repository that you would like to deploy.
 2. Below the 'Repo' name, select the settings link from the menu.
-3. in the settings page, on the left there is a menu. select the pages link.
+3. In the settings page, on the left there is a menu. Select the pages link.
 4. Under the heading 'Source', select 'None tab' and change to 'Master'.
-5. select save and refersh the page.
-6. Above the subheading source, there will be an address link that will appear. click this link to test that it is working.
+5. Select 'save' and refersh the page.
+6. Above the subheading source, there will be an address link that will appear. Click this link to test that it is working.
 
 
 ### **Creating a Clone**
@@ -267,11 +267,11 @@ Deploying via GitHub pages
 
 ### **Forking**
 
-Creating a copy a repository into your own respository.
+Creating a copy a repository into your own repository.
 
 1. Go to the GitHub Page.
 2. On the top right corner, select Fork.
-3. You will have now added a copy of the repository to your respository.
+3. You will have now added a copy of the repository to your repository.
 
 ---
 
@@ -283,12 +283,12 @@ Creating a copy a repository into your own respository.
     - When I was stuck on my coding and didn't really have much knowledge of bootstrap, I asked on Slack for help and met Harry Dhillon and he helped me understand it better.
 
 - Mentor, Rahul
-    - My mentor did provide me with guidance on how to implement code from bootstrap into my code.
+    - My mentor did provide me with guidance on how to implement code from bootstrap in my code.
     - I had an issue with my text overflowing out of the card element when testing if responsive on different screens. My mentor advised to use media query and add overflow: scroll within this style.
 
 - Tutor support
    - At one point I had saved my code but did not commit, I could not find my code, I then contacted tutor support and they helped me to find my workspace.
-   - My Gitpod allowance had ran out, I contacted tutor support who sorted this out for me and then I was able to code again.
+   - My Gitpod allowance ran out, I contacted tutor support who sorted this out for me and then I was able to code again.
 
 - [Bootstrap](https://getbootstrap.com/)
     - I used many bootstrap styles in my Code, such as;
@@ -298,7 +298,7 @@ Creating a copy a repository into your own respository.
         - Used Bootstrap grid layout to make my project responsive.
 
 - [W3 School](https://www.w3schools.com/) 
-    - I used WW3 school to help me implement code into my project:
+    - I used WW3 school to help me implement the code into my project:
         - Border styles
         - Overflow; scroll
         - Add a link to my email address in the Contact section.

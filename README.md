@@ -243,7 +243,8 @@ During the creation of my resume project, I came across a few issues that I had 
     
 
 From the 30th May to 19th June, I had not committed and pushed my code correctly due to lack of understanding. However, after noticing this glaring issue, I made sure I correctly git added, committed and pushed after that from 20th June onwards.
-    ---
+
+---
 
 ## **Deployment**
 
